@@ -752,7 +752,10 @@ fill: #F4F4FD;
 }
 
 .form-btn{
-    display: block; 
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
     padding: 16px 32px;
     border-radius: 4px;
     background: #4D5AE5;
